@@ -1,0 +1,9 @@
+body{background-color: #9DDAE0 ;color: #181693;font-style: normal;font-size:25}
+h1{font-family: serif; font-size: 50px; color: white;}
+p{font-family: Garamond; font-size: 16px; color: pink; display: block; margin-right:10px ;background-color: white;padding: 10px;}
+img{border-width: 6px; border-style: double; border-color: white;}
+a{font-family: Garamond;color: darkred; font-size: 12px;}
+a:hover{color: blue;}
+ul{list-style-type:none; margin: 0;padding: 0;overflow: hidden;background-color: #F1B8EE;}
+li{display: inline-block ;margin-right: 3px;}
+li a {display: inline-block;color: white; text-align: center;padding: 14px 16px;text-decoration: none;font-size: 14px;}
